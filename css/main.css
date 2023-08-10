@@ -4,6 +4,7 @@ div.Preface {
 
 div.Preface-text {
     margin: 100px 75px 100px;
+    width: 400px;
 }
 
 div.Body {
@@ -12,4 +13,5 @@ div.Body {
 
 div.Body-text {
     margin: 100px 75px 100px;
+    width: 400px;
 }
