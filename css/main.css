@@ -3,9 +3,13 @@ div.Preface {
 }
 
 div.Preface-text {
-    margin: 25px 15px 25px;
+    padding: 25px 15px 25px;
 }
 
 div.Body {
     margin: 25px 15px 25px;
+}
+
+div.Body-text {
+    padding: 25px 15px 25px;
 }
