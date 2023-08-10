@@ -1,3 +1,11 @@
 div.Preface {
     margin: 25px 50px 75px;
 }
+
+div.Preface-text {
+    margin: 25px 15px 25px;
+}
+
+div.Body {
+    margin: 25px 15px 25px;
+}
