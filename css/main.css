@@ -9,8 +9,9 @@ div.Preface-text {
 
 div.Body {
     margin: 25px 15px 25px;
+    padding: 2em;
 }
 
 div.Body-text {
-    margin: 50px 50px 50px 50px;
+    margin:auto;
 }
