@@ -1,5 +1,6 @@
 div.Preface {
     margin: 94%;
+    padding: 1em 2em 2em 1em;
 }
 
 div.Preface-text {
@@ -7,10 +8,6 @@ div.Preface-text {
     width: 80%;
 }
 
-div.Body {
-    margin: 95%;
-}
-
 div.Body-text {
-    margin: 90%;
+    padding: 1em 2em 2em 1em;
 }
