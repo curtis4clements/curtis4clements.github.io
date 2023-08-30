@@ -1,6 +1,7 @@
 div.Preface {
     margin: 94%;
     padding: 1em 2em 2em 1em;
+    border-style: inset;
 }
 
 div.Preface-text {
@@ -10,4 +11,5 @@ div.Preface-text {
 
 div.Body-text {
     padding: 1em 2em 2em 1em;
+    border-style: inset;
 }
